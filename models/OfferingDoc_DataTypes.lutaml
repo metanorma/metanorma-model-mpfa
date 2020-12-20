@@ -1,0 +1,21 @@
+diagram OfferingDoc_DataTypes {
+  
+  class Uri <<dataType>> {
+  }
+  
+  class String <<primitiveType>> {
+  }
+  
+  class Iso8601DateTime <<dataType>> {
+  }
+  
+  class Iso15924Code <<dataType>> {
+  }
+  
+  class Iso639Code <<dataType>> {
+  }
+  
+  class LocalizedString <<StandardDocument>> {
+  }
+    
+}
